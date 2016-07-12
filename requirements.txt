@@ -1,0 +1,15 @@
+CherryPy==6.0.1
+Django==1.9.7
+lxml==3.6.0
+MySQL-python==1.2.5
+Naked==0.1.31
+ppp==1.0.0
+pycrypto==2.6.1
+PyYAML==3.11
+repoze.who==2.3
+requests==2.10.0
+shellescape==3.4.1
+six==1.10.0
+SQLAlchemy==1.0.13
+WebOb==1.6.1
+zope.interface==4.2.0
